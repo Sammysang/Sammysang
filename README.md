@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding applications for data management
 - 🌱 I’m currently learning termux
 - 💞️ I’m looking to collaborate on creating an app using termux
-- 📫 How to reach me sammysang233@gmail.com
+- 📫 How to reach me sam_sang@mail.com
 
 <!---
 Sammysang/Sammysang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
